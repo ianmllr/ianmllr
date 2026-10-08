@@ -1,3 +1,3 @@
-### CS student at Zealand
+### CS student at Zealand - Sjællands Erhvervsakademi
 
 I'm Ian, a 23 years old CS student. This profile contains projects from school as well as projects that I make in my free time.
