@@ -5,13 +5,13 @@ I'm Ian. I'm an AP Computer Science student @ [Zealand](https://www.zealand.dk/)
 
 ### What I work with
 
-**Languages**: TypeScript - Java - Rust - Python - JavaScript 
+**Languages**: TypeScript, Java, Rust, Python, JavaScript 
 
-**Web**: Next.js - Node.js - Tailwind CSS 
+**Web**: Next.js, Node.js, Tailwind CSS 
 
-**Databases**: MySQL / MariaDB - MongoDB 
+**Databases**: MySQL / MariaDB, MongoDB 
 
-**Tools**: Git · Linux (Fedora) · Vercel · WebStorm 
+**Tools**: Git, Linux (Fedora), Vercel, VSCode, JetBrains IDEs 
 
 **Currently learning**: Docker and cloud deployment
 
