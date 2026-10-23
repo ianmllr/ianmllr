@@ -11,7 +11,7 @@ I'm Ian. I'm an AP Computer Science student @ [Zealand](https://www.zealand.dk/)
 
 **Databases**: MySQL / MariaDB, MongoDB 
 
-**Tools**: Claude Code, Orca, Git, Linux (Fedora), Vercel
+**Tools**: Claude Code, Orca, VSCode, JetBrains, Git, Linux (Fedora), Vercel
 
 **Currently learning**: Docker and cloud deployment
 
